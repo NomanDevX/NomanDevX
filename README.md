@@ -16,9 +16,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=NomanDevX&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NomanDevX&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NomanDevX&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
